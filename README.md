@@ -1,7 +1,7 @@
-# CheatBase
+# UE-CheatBase
 **Universal Engine Base (External)**
 
-CheatBase is a professional-grade modular external tooling platform designed for Unreal Engine 4 and Unreal Engine 5. It acts as an out-of-process engine abstraction framework, built specifically for AAA internal tooling, proprietary middleware, and enterprise engine infrastructure development.
+UE-CheatBase is a professional-grade modular external tooling platform designed for Unreal Engine 4 and Unreal Engine 5. It acts as an out-of-process engine abstraction framework, built specifically for AAA internal tooling, proprietary middleware, and enterprise engine infrastructure development.
 
 > **Note:** CheatBase operates completely externally. It does not inject DLLs, nor does it hook internal engine functions.
 
